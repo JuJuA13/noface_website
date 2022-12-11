@@ -1,0 +1,17 @@
+{
+  "Accueil": {
+    "description": "Auto imported from components/Accueil.vue"
+  },
+  "Bio": {
+    "description": "Auto imported from components/Bio.vue"
+  },
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "Sidebar": {
+    "description": "Auto imported from components/Sidebar.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  }
+}
