@@ -62,7 +62,7 @@ export default {
   build: {},
 
   router:{
-    base: '/sansvisage/'
+    base: '/noface_website/'
   },
 
   generate: {
